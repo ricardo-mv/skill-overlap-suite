@@ -1,0 +1,12 @@
+{
+  "name": "skill-overlap-suite",
+  "version": "1.0.0",
+  "description": "Tres skills para entender y navegar los solapamientos entre tus skills instaladas: resolver te orienta en el momento sobre que skill usar, comparator genera documentos de referencia comparativos, y mapper construye un mapa personalizado de solapamientos segun tu contexto.",
+  "author": {
+    "name": "RicardoMV"
+  },
+  "homepage": "https://github.com/ricardo-mv/skill-overlap-suite",
+  "repository": "https://github.com/ricardo-mv/skill-overlap-suite",
+  "license": "MIT",
+  "keywords": ["skills", "overlap", "comparison", "reference", "decision-support", "productivity"]
+}
