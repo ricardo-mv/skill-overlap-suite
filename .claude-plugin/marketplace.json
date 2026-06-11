@@ -1,0 +1,19 @@
+{
+  "name": "ricardomv-skills",
+  "owner": {
+    "name": "RicardoMV"
+  },
+  "plugins": [
+    {
+      "name": "skill-overlap-suite",
+      "source": {
+        "source": "github",
+        "repo": "ricardo-mv/skill-overlap-suite"
+      },
+      "description": "Tres skills para navegar los solapamientos entre tus skills instaladas: resolver (orienta en el momento), comparator (documentos de referencia) y mapper (mapa personalizado por contexto).",
+      "version": "1.0.0",
+      "author": { "name": "RicardoMV" },
+      "keywords": ["skills", "overlap", "comparison", "reference"]
+    }
+  ]
+}
